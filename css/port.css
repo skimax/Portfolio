@@ -17,12 +17,17 @@
 
 .navbar li a, .navbar .navbar-brand { 
     color: #fff; 
+    right:0;
+    left:0;
+
    
 }
 
 
 .navbar-nav li a:hover {
     color: #fff !important;
+    right:0;
+    left:0;
 }
 
  
